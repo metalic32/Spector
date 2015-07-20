@@ -56,7 +56,7 @@ MonoBehaviour:
   linkParent: {fileID: 0}
   loadable: 0
   atlasFormat: 0
-  maxTextureSize: 2048
+  maxTextureSize: 4096
   forceTextureSize: 0
   forcedTextureWidth: 2048
   forcedTextureHeight: 2048
@@ -64,7 +64,7 @@ MonoBehaviour:
   atlasWidth: 2048
   atlasHeight: 2048
   forceSquareAtlas: 0
-  atlasWastage: 12.9488945
+  atlasWastage: 26.3857841
   allowMultipleAtlases: 0
   removeDuplicates: 1
   textureParams:
@@ -72,7 +72,7 @@ MonoBehaviour:
     disableTrimming: 0
     additive: 0
     scale: {x: 1, y: 1, z: 1}
-    texture: {fileID: 2800000, guid: 41bb8b5b55e2bcd49aa25b25fb4ed018, type: 3}
+    texture: {fileID: 2800000, guid: 5de4f0c001434ed4bba9aeee0647ec5a, type: 3}
     materialId: 0
     anchor: 4
     anchorX: 0

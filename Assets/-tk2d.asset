@@ -698,9 +698,79 @@ MonoBehaviour:
     spriteNames:
     - tlo
     spriteTextureGUIDs:
-    - 41bb8b5b55e2bcd49aa25b25fb4ed018
+    - 5de4f0c001434ed4bba9aeee0647ec5a
     spriteTextureTimeStamps:
-    - 1436099832.24166
+    - 1437411838
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
+  - name: BackroundElements
+    spriteCollectionGUID: fb151b287444ac049a77264a107547d3
+    spriteCollectionDataGUID: 24436122f19e0c846b0efcd6e5fa588e
+    spriteNames:
+    - 3_plan
+    - alien1
+    - alien2
+    - alien3
+    - drzwi_lewe
+    - drzwi_prawe
+    - drzwi_swiatlo_blue
+    - drzwi_swiatlo_red
+    - kable1
+    - kable2
+    - komandos
+    - krew
+    - lampka1
+    - sufit
+    - swiatelka
+    - swiatlo1
+    - swiatlo2
+    - swiatlo_komputer
+    - szyba
+    - tlo_czern
+    spriteTextureGUIDs:
+    - dc9a7ec81f87ff84aa83d806e0bada7c
+    - e6710d86f3bf38e4c9df9b319b2bd1a6
+    - e705c610c4d702949b4cd9c317c2fe44
+    - caf07e9814b991c49b3cc775e8f5a42c
+    - dced29ad3882f054e9cad27a02d303a8
+    - bd3b04468540a314a80a3dadfddaf5fc
+    - 35f090252fd35654dbf7ede3d96f4a58
+    - e434cfb8f91b350468af9cb0188ea413
+    - ef40e0b6004812e4bb425c57d35d25ae
+    - e57ac8d7d5b0fd14eba1653d102ee146
+    - af60ed92686ea32499645c6690b4fd17
+    - 3d61ca2ca653a2549ae12f606e26acd1
+    - 35be5fee3d5eccc40b3ed18f40671cf0
+    - 195897b408fcd2f4dba141f119138a0f
+    - 1492f4765121b5242859467ba58a73bb
+    - a4d5b35d159c8c5488d8ceff48f9b436
+    - ddf0188a840ad524e97b3c694bb8b569
+    - 2afd4162f17a0d94eaa74c3621b161d3
+    - 2191a21043d556f46b1a6987995e706b
+    - 967177871cf1e57459683fe8e54b3093
+    spriteTextureTimeStamps:
+    - 1437412600
+    - 1437412221
+    - 1437412239
+    - 1437412255
+    - 1437411873
+    - 1437411920
+    - 1437412410
+    - 1437412517
+    - 1437412015
+    - 1437412046
+    - 1437412193
+    - 1437412272
+    - 1437412320
+    - 1437411796
+    - 1437412382
+    - 1437412119
+    - 1437412146
+    - 1437412344
+    - 1437412576
+    - 1437411962
     managedSpriteCollection: 0
     loadable: 0
     assetName: 
