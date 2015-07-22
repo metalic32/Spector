@@ -600,6 +600,7 @@ MonoBehaviour:
   runSpeed: 6
   lookingRight: 1
   anim: {fileID: 425178595}
+  cameraObject: {fileID: 0}
 --- !u!114 &1058107314
 MonoBehaviour:
   m_ObjectHideFlags: 0

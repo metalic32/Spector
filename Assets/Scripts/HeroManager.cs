@@ -8,6 +8,9 @@ public class HeroManager : MonoBehaviour {
 	public bool lookingRight = true;
 	public Animator anim;
 
+	public tk2dCamera cameraObject;
+
+
 	// Use this for initialization
 	void Start () {
 	
@@ -46,6 +49,36 @@ public class HeroManager : MonoBehaviour {
 
 		}
 		else anim.SetInteger("State",0);
+
+		/*
+
+		Vector3 testPos = Vector3.zero;
+		testPos = Input.mousePosition;
+
+			Vector3 crosshairposition = cameraObject.ScreenCamera.ScreenToWorldPoint (testPos); //new Vector3 (testPos.x / 100.0f, testPos.y / 100.0f, 0.0f);
+			crosshairposition.z = 0.0f;
+			//Crosshair.transform.position = crosshairposition;
+			
+			Vector3 m_aimDirection = crosshairposition - Player.instance.ShooterHand.transform.position;
+			m_aimDirection.Normalize ();
+			Player.instance.SetShooterHandDirection (m_aimDirection);
+			
+		}
+		if ((shootTriger) &&(!Player.instance.reloading))
+		{
+
+				
+				Shoot ();
+				Player.instance.UpdateMagazine();
+				shootTriger = false;
+				Player.instance.PlayShoot();
+			}
+			else 	leaveOneClick = false;
+			
+			
+		}
+
+*/
 
 		if (Input.GetKey (KeyCode.W)) 
 			anim.SetBool("Jump",true);
