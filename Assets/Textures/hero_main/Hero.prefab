@@ -25,7 +25,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 418438}
   - 212: {fileID: 21255942}
-  - 114: {fileID: 11424604}
+  - 114: {fileID: 11487396}
   m_Layer: 0
   m_Name: stopa_lewa
   m_TagString: Untagged
@@ -105,7 +105,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 496448}
   - 212: {fileID: 21243534}
-  - 114: {fileID: 11438222}
+  - 114: {fileID: 11437388}
   m_Layer: 0
   m_Name: flip0
   m_TagString: Untagged
@@ -169,7 +169,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 457554}
   - 212: {fileID: 21285348}
-  - 114: {fileID: 11431558}
+  - 114: {fileID: 11485590}
   m_Layer: 0
   m_Name: noga_lewa_dol
   m_TagString: Untagged
@@ -248,7 +248,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 427358}
   - 212: {fileID: 21230966}
-  - 114: {fileID: 11469346}
+  - 114: {fileID: 11449744}
   m_Layer: 0
   m_Name: miednica
   m_TagString: Untagged
@@ -326,7 +326,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 439868}
   - 212: {fileID: 21238130}
-  - 114: {fileID: 11464462}
+  - 114: {fileID: 11456804}
   m_Layer: 0
   m_Name: reka_l
   m_TagString: Untagged
@@ -435,7 +435,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 494162}
   - 212: {fileID: 21280128}
-  - 114: {fileID: 11404206}
+  - 114: {fileID: 11459478}
   m_Layer: 0
   m_Name: reka_r
   m_TagString: Untagged
@@ -467,7 +467,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 426612}
   - 212: {fileID: 21223142}
-  - 114: {fileID: 11466164}
+  - 114: {fileID: 11481556}
   m_Layer: 0
   m_Name: noga_lewa
   m_TagString: Untagged
@@ -484,7 +484,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 405022}
   - 212: {fileID: 21285686}
-  - 114: {fileID: 11419698}
+  - 114: {fileID: 11488824}
   m_Layer: 0
   m_Name: body_front
   m_TagString: Untagged
@@ -605,7 +605,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 172242}
-  m_LocalRotation: {x: 0, y: 0, z: .690715849, w: -.723126292}
+  m_LocalRotation: {x: 0, y: 0, z: .690715671, w: -.723126471}
   m_LocalPosition: {x: 1.46055162, y: .709829867, z: -.0110000009}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -617,7 +617,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 140136}
-  m_LocalRotation: {x: 0, y: 0, z: .965071023, w: -.26198858}
+  m_LocalRotation: {x: 0, y: 0, z: .965070963, w: -.26198855}
   m_LocalPosition: {x: -.0714285672, y: -.198412701, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -672,7 +672,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 106246}
-  m_LocalRotation: {x: 0, y: 0, z: .378840983, w: .925461829}
+  m_LocalRotation: {x: 0, y: 0, z: .378841132, w: .925461769}
   m_LocalPosition: {x: .0609423183, y: -.177123085, z: -.00800000038}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -697,7 +697,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 171558}
-  m_LocalRotation: {x: 0, y: 0, z: .738816679, w: .673906446}
+  m_LocalRotation: {x: 0, y: 0, z: .738816798, w: .673906326}
   m_LocalPosition: {x: -.0959232152, y: -.200770006, z: -.00700000022}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -709,7 +709,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 137724}
-  m_LocalRotation: {x: 0, y: 0, z: .707106829, w: -.707106829}
+  m_LocalRotation: {x: 0, y: 0, z: .70710659, w: -.707106948}
   m_LocalPosition: {x: .384303898, y: .488775313, z: -.00500000035}
   m_LocalScale: {x: .966382027, y: 1, z: 1}
   m_Children: []
@@ -721,7 +721,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 128950}
-  m_LocalRotation: {x: 0, y: 0, z: .244467705, w: .969657421}
+  m_LocalRotation: {x: 0, y: 0, z: .244467735, w: .969657421}
   m_LocalPosition: {x: -.418472052, y: .122305296, z: -.0140000004}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -733,7 +733,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 112464}
-  m_LocalRotation: {x: 0, y: 0, z: .313970238, w: -.94943285}
+  m_LocalRotation: {x: 0, y: 0, z: .31397, w: -.949432909}
   m_LocalPosition: {x: .0108705396, y: -.156434461, z: -.00200000009}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -745,7 +745,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 112504}
-  m_LocalRotation: {x: 0, y: 0, z: .999865711, w: -.0163870119}
+  m_LocalRotation: {x: 0, y: 0, z: .99986577, w: -.0163871329}
   m_LocalPosition: {x: 1.19800842, y: -.31834805, z: -.0120000001}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -786,7 +786,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 136680}
-  m_LocalRotation: {x: 0, y: 0, z: .0980389193, w: -.995182574}
+  m_LocalRotation: {x: 0, y: 0, z: .0980389267, w: -.995182633}
   m_LocalPosition: {x: .42414555, y: .0415673666, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -803,7 +803,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 190356}
-  m_LocalRotation: {x: 0, y: 0, z: .265013397, w: .964244723}
+  m_LocalRotation: {x: 0, y: 0, z: .265013367, w: .964244723}
   m_LocalPosition: {x: -.402139187, y: .201407909, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -815,7 +815,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 143578}
-  m_LocalRotation: {x: 0, y: 0, z: .00961405039, w: .999953806}
+  m_LocalRotation: {x: 0, y: 0, z: .00961405132, w: .999953806}
   m_LocalPosition: {x: -.0581752099, y: -.0622667782, z: -.0170000009}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -868,7 +868,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 142032}
-  m_LocalRotation: {x: 0, y: 0, z: .190281928, w: -.981729507}
+  m_LocalRotation: {x: 0, y: 0, z: .190281719, w: -.981729567}
   m_LocalPosition: {x: .0830140635, y: .383677363, z: -.00100000005}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -880,7 +880,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100754}
-  m_LocalRotation: {x: 0, y: 0, z: .213506818, w: -.976941586}
+  m_LocalRotation: {x: 0, y: 0, z: .213506579, w: -.976941645}
   m_LocalPosition: {x: .0881532207, y: .450603604, z: -.0150000006}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -892,7 +892,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 126402}
-  m_LocalRotation: {x: 0, y: 0, z: .900396347, w: .435070634}
+  m_LocalRotation: {x: 0, y: 0, z: .900396407, w: .435070515}
   m_LocalPosition: {x: -.0775867477, y: .0325653888, z: -.00600000005}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -945,7 +945,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 188210}
-  m_LocalRotation: {x: 0, y: 0, z: .690715849, w: -.723126292}
+  m_LocalRotation: {x: 0, y: 0, z: .690715671, w: -.723126471}
   m_LocalPosition: {x: 1.47773528, y: .335223794, z: -.00900000054}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -957,7 +957,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 155096}
-  m_LocalRotation: {x: 0, y: 0, z: .594532847, w: .804071307}
+  m_LocalRotation: {x: 0, y: 0, z: .594532907, w: .804071307}
   m_LocalPosition: {x: -.0754851177, y: .123413071, z: -.00300000003}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -969,7 +969,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 147526}
-  m_LocalRotation: {x: 0, y: 0, z: .265242517, w: -.964181781}
+  m_LocalRotation: {x: 0, y: 0, z: .265242308, w: -.96418184}
   m_LocalPosition: {x: .182050258, y: .670973241, z: -.0100000007}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -981,7 +981,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 117062}
-  m_LocalRotation: {x: 0, y: 0, z: .965884328, w: -.258973897}
+  m_LocalRotation: {x: 0, y: 0, z: .965884268, w: -.258974016}
   m_LocalPosition: {x: 1.01220131, y: .0268780086, z: -.0130000003}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -1007,7 +1007,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 135228}
-  m_LocalRotation: {x: 0, y: 0, z: .402267665, w: .915522099}
+  m_LocalRotation: {x: 0, y: 0, z: .402267724, w: .915522099}
   m_LocalPosition: {x: -.0504378676, y: .253543407, z: -.00400000019}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -1033,7 +1033,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 161040}
-  m_LocalRotation: {x: 0, y: 0, z: .165852234, w: .986150622}
+  m_LocalRotation: {x: 0, y: 0, z: .165852264, w: .986150622}
   m_LocalPosition: {x: .00442674989, y: .0518266484, z: -.0160000008}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -1070,7 +1070,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 172952}
-  m_LocalRotation: {x: 0, y: 0, z: .662463725, w: -.749094069}
+  m_LocalRotation: {x: 0, y: 0, z: .662463665, w: -.749094009}
   m_LocalPosition: {x: 1.14359367, y: -.107062139, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1084,7 +1084,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 111656}
-  m_LocalRotation: {x: 0, y: 0, z: .333561987, w: -.942728162}
+  m_LocalRotation: {x: 0, y: 0, z: .333562016, w: -.942728221}
   m_LocalPosition: {x: 1.29970574, y: -.0803516954, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -10423,8 +10423,8 @@ AnimationClip:
         tangentMode: 0
       - time: 3.92400026
         value: {x: .411306977, y: .521235406, z: -.00500000035}
-        inSlope: {x: -.0408689529, y: -.0491281152, z: Infinity}
-        outSlope: {x: -.0408689529, y: -.0491281152, z: Infinity}
+        inSlope: {x: -.0408689976, y: -.0491281152, z: Infinity}
+        outSlope: {x: -.0408689976, y: -.0491281152, z: Infinity}
         tangentMode: 0
       - time: 4.11400032
         value: {x: .402093023, y: .510159433, z: -.00500000035}
@@ -10549,24 +10549,24 @@ AnimationClip:
         outSlope: {x: 0, y: 0, z: Infinity}
         tangentMode: 0
       - time: 3.92400026
-        value: {x: -.0463686809, y: -.207429558, z: -.00700000022}
+        value: {x: -.0463686772, y: -.207429543, z: -.00700000022}
         inSlope: {x: 0, y: 0, z: Infinity}
         outSlope: {x: 0, y: 0, z: Infinity}
         tangentMode: 0
       - time: 4.11400032
-        value: {x: -.0463686809, y: -.207429558, z: -.00700000022}
-        inSlope: {x: 5.51078339e-09, y: 4.40862671e-08, z: Infinity}
-        outSlope: {x: 5.51078339e-09, y: 4.40862671e-08, z: Infinity}
+        value: {x: -.0463686772, y: -.207429543, z: -.00700000022}
+        inSlope: {x: 0, y: 0, z: Infinity}
+        outSlope: {x: 0, y: 0, z: Infinity}
         tangentMode: 0
       - time: 4.25400019
-        value: {x: -.0463686809, y: -.207429558, z: -.00800000038}
-        inSlope: {x: 7.66520536e-09, y: 6.13216429e-08, z: Infinity}
-        outSlope: {x: 7.66520536e-09, y: 6.13216429e-08, z: Infinity}
+        value: {x: -.0463686772, y: -.207429543, z: -.00800000038}
+        inSlope: {x: 0, y: 0, z: Infinity}
+        outSlope: {x: 0, y: 0, z: Infinity}
         tangentMode: 0
       - time: 4.37200022
-        value: {x: -.0463686809, y: -.207429558, z: -.00800000038}
-        inSlope: {x: 0, y: 8.61338307e-08, z: Infinity}
-        outSlope: {x: 0, y: 8.61338307e-08, z: Infinity}
+        value: {x: -.0463686772, y: -.207429543, z: -.00800000038}
+        inSlope: {x: 0, y: 0, z: Infinity}
+        outSlope: {x: 0, y: 0, z: Infinity}
         tangentMode: 0
       - time: 4.60000038
         value: {x: -.0463686772, y: -.207429543, z: -.00800000038}
@@ -10686,14 +10686,14 @@ AnimationClip:
         outSlope: {x: -.0132823111, y: .0136387479, z: Infinity}
         tangentMode: 0
       - time: 4.25400019
-        value: {x: 1.48035169, y: .332537115, z: -.0100000007}
+        value: {x: 1.48035169, y: .332537144, z: -.0100000007}
         inSlope: {x: -.0125635779, y: .0129010314, z: Infinity}
         outSlope: {x: -.0125635779, y: .0129010314, z: Infinity}
         tangentMode: 0
       - time: 4.37200022
-        value: {x: 1.47900259, y: .333922446, z: -.0100000007}
-        inSlope: {x: -.0100046163, y: .0102736987, z: Infinity}
-        outSlope: {x: -.0100046163, y: .0102736987, z: Infinity}
+        value: {x: 1.47900259, y: .333922476, z: -.0100000007}
+        inSlope: {x: -.0100046163, y: .0102735264, z: Infinity}
+        outSlope: {x: -.0100046163, y: .0102735264, z: Infinity}
         tangentMode: 0
       - time: 4.60000038
         value: {x: 1.47773528, y: .335223794, z: -.0100000007}
@@ -10813,24 +10813,24 @@ AnimationClip:
         outSlope: {x: -.00183807092, y: .0242190883, z: Infinity}
         tangentMode: 0
       - time: 3.92400026
-        value: {x: 1.46024108, y: .713922381, z: -.0110000009}
+        value: {x: 1.46024108, y: .713922322, z: -.0110000009}
         inSlope: {x: .000470040046, y: -.00619391492, z: Infinity}
         outSlope: {x: .000470040046, y: -.00619391492, z: Infinity}
         tangentMode: 0
       - time: 4.11400032
-        value: {x: 1.46034694, y: .712525964, z: -.0110000009}
-        inSlope: {x: .000609977578, y: -.00803816132, z: Infinity}
-        outSlope: {x: .000609977578, y: -.00803816132, z: Infinity}
+        value: {x: 1.46034694, y: .712525904, z: -.0110000009}
+        inSlope: {x: .000609977578, y: -.00803807285, z: Infinity}
+        outSlope: {x: .000609977578, y: -.00803807285, z: Infinity}
         tangentMode: 0
       - time: 4.25400019
-        value: {x: 1.46043134, y: .711413324, z: -.0120000001}
-        inSlope: {x: .000577159284, y: -.0076033934, z: Infinity}
-        outSlope: {x: .000577159284, y: -.0076033934, z: Infinity}
+        value: {x: 1.46043134, y: .711413264, z: -.0120000001}
+        inSlope: {x: .000577159284, y: -.00760327047, z: Infinity}
+        outSlope: {x: .000577159284, y: -.00760327047, z: Infinity}
         tangentMode: 0
       - time: 4.37200022
-        value: {x: 1.46049333, y: .710596859, z: -.0120000001}
-        inSlope: {x: .000459610135, y: -.00605520839, z: Infinity}
-        outSlope: {x: .000459610135, y: -.00605520839, z: Infinity}
+        value: {x: 1.46049333, y: .7105968, z: -.0120000001}
+        inSlope: {x: .000459610135, y: -.0060548638, z: Infinity}
+        outSlope: {x: .000459610135, y: -.0060548638, z: Infinity}
         tangentMode: 0
       - time: 4.60000038
         value: {x: 1.46055162, y: .709829867, z: -.0120000001}
@@ -10996,8 +10996,8 @@ AnimationClip:
         tangentMode: 0
       - time: 3.92400026
         value: {x: 1.00965607, y: .0326024294, z: -.0130000003}
-        inSlope: {x: .00385225448, y: -.00866387133, z: Infinity}
-        outSlope: {x: .00385225448, y: -.00866387133, z: Infinity}
+        inSlope: {x: .00385225448, y: -.00866387412, z: Infinity}
+        outSlope: {x: .00385225448, y: -.00866387412, z: Infinity}
         tangentMode: 0
       - time: 4.11400032
         value: {x: 1.01052451, y: .0306491517, z: -.0130000003}
@@ -11153,24 +11153,24 @@ AnimationClip:
         outSlope: {x: 0, y: 0, z: Infinity}
         tangentMode: 0
       - time: 3.92400026
-        value: {x: .0200551115, y: .0678189695, z: -.0160000008}
+        value: {x: .0200551096, y: .0678189695, z: -.0160000008}
         inSlope: {x: 0, y: 0, z: Infinity}
         outSlope: {x: 0, y: 0, z: Infinity}
         tangentMode: 0
       - time: 4.11400032
-        value: {x: .0200551115, y: .0678189695, z: -.0160000008}
-        inSlope: {x: -2.75539169e-09, y: 0, z: Infinity}
-        outSlope: {x: -2.75539169e-09, y: 0, z: Infinity}
+        value: {x: .0200551096, y: .0678189695, z: -.0160000008}
+        inSlope: {x: 0, y: 0, z: Infinity}
+        outSlope: {x: 0, y: 0, z: Infinity}
         tangentMode: 0
       - time: 4.25400019
-        value: {x: .0200551115, y: .0678189695, z: -.0170000009}
-        inSlope: {x: -3.83260268e-09, y: 0, z: Infinity}
-        outSlope: {x: -3.83260268e-09, y: 0, z: Infinity}
+        value: {x: .0200551096, y: .0678189695, z: -.0170000009}
+        inSlope: {x: 0, y: 0, z: Infinity}
+        outSlope: {x: 0, y: 0, z: Infinity}
         tangentMode: 0
       - time: 4.37200022
-        value: {x: .0200551115, y: .0678189695, z: -.0170000009}
-        inSlope: {x: -1.07667288e-08, y: 0, z: Infinity}
-        outSlope: {x: -1.07667288e-08, y: 0, z: Infinity}
+        value: {x: .0200551096, y: .0678189695, z: -.0170000009}
+        inSlope: {x: 0, y: 0, z: Infinity}
+        outSlope: {x: 0, y: 0, z: Infinity}
         tangentMode: 0
       - time: 4.60000038
         value: {x: .0200551096, y: .0678189695, z: -.0170000009}
@@ -15609,18 +15609,18 @@ AnimationClip:
       m_Curve:
       - time: 0
         value: {x: 0, y: 0, z: .83375001, w: .552142143}
-        inSlope: {x: 0, y: 0, z: -1.03426099, w: 1.30958855}
-        outSlope: {x: 0, y: 0, z: -1.03426099, w: 1.30958855}
+        inSlope: {x: 0, y: 0, z: -1.03426099, w: 1.30958915}
+        outSlope: {x: 0, y: 0, z: -1.03426099, w: 1.30958915}
         tangentMode: 0
       - time: .100000001
-        value: {x: 0, y: 0, z: .730323911, w: .683100998}
+        value: {x: 0, y: 0, z: .730323911, w: .683101058}
         inSlope: {x: 0, y: 0, z: -.474393666, w: .608510673}
         outSlope: {x: 0, y: 0, z: -.474393666, w: .608510673}
         tangentMode: 0
       - time: .202000007
         value: {x: 0, y: 0, z: .739042222, w: .673659146}
-        inSlope: {x: 0, y: 0, z: -.653644562, w: .588516772}
-        outSlope: {x: 0, y: 0, z: -.653644562, w: .588516772}
+        inSlope: {x: 0, y: 0, z: -.653644562, w: .588516474}
+        outSlope: {x: 0, y: 0, z: -.653644562, w: .588516474}
         tangentMode: 0
       - time: .300000012
         value: {x: 0, y: 0, z: .60255146, w: .798080027}
@@ -24607,18 +24607,18 @@ AnimationClip:
         tangentMode: 0
       - time: .399000019
         value: {x: 0, y: 0, z: .705355465, w: .708853781}
-        inSlope: {x: 0, y: 0, z: -.0975452662, w: .124009937}
-        outSlope: {x: 0, y: 0, z: -.0975452662, w: .124009937}
+        inSlope: {x: 0, y: 0, z: -.0975452662, w: .124010086}
+        outSlope: {x: 0, y: 0, z: -.0975452662, w: .124010086}
         tangentMode: 0
       - time: .600000024
-        value: {x: 0, y: 0, z: .766578019, w: .642151177}
-        inSlope: {x: 0, y: 0, z: .717387319, w: -1.45218062}
-        outSlope: {x: 0, y: 0, z: .717387319, w: -1.45218062}
+        value: {x: 0, y: 0, z: .766578019, w: .642151237}
+        inSlope: {x: 0, y: 0, z: .717387319, w: -1.45218074}
+        outSlope: {x: 0, y: 0, z: .717387319, w: -1.45218074}
         tangentMode: 0
       - time: .799000025
         value: {x: 0, y: 0, z: .991484821, w: .130222127}
-        inSlope: {x: 0, y: 0, z: .465001673, w: -2.38132882}
-        outSlope: {x: 0, y: 0, z: .465001673, w: -2.38132882}
+        inSlope: {x: 0, y: 0, z: .465001673, w: -2.38132906}
+        outSlope: {x: 0, y: 0, z: .465001673, w: -2.38132906}
         tangentMode: 0
       - time: .999000072
         value: {x: 0, y: 0, z: .9514485, w: -.307807982}
@@ -28809,18 +28809,18 @@ AnimationClip:
         tangentMode: 0
       - time: .399000019
         value: {x: 0, y: 0, z: .705355465, w: .708853781}
-        inSlope: {x: 0, y: 0, z: -.0975452662, w: .124009937}
-        outSlope: {x: 0, y: 0, z: -.0975452662, w: .124009937}
+        inSlope: {x: 0, y: 0, z: -.0975452662, w: .124010086}
+        outSlope: {x: 0, y: 0, z: -.0975452662, w: .124010086}
         tangentMode: 0
       - time: .600000024
-        value: {x: 0, y: 0, z: .766578019, w: .642151177}
-        inSlope: {x: 0, y: 0, z: .717387319, w: -1.45218062}
-        outSlope: {x: 0, y: 0, z: .717387319, w: -1.45218062}
+        value: {x: 0, y: 0, z: .766578019, w: .642151237}
+        inSlope: {x: 0, y: 0, z: .717387319, w: -1.45218074}
+        outSlope: {x: 0, y: 0, z: .717387319, w: -1.45218074}
         tangentMode: 0
       - time: .799000025
         value: {x: 0, y: 0, z: .991484821, w: .130222127}
-        inSlope: {x: 0, y: 0, z: .465001673, w: -2.38132882}
-        outSlope: {x: 0, y: 0, z: .465001673, w: -2.38132882}
+        inSlope: {x: 0, y: 0, z: .465001673, w: -2.38132906}
+        outSlope: {x: 0, y: 0, z: .465001673, w: -2.38132906}
         tangentMode: 0
       - time: .999000072
         value: {x: 0, y: 0, z: .9514485, w: -.307807982}
@@ -37348,23 +37348,6 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11404206
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 161040}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: 9770b4083c7203a45ae203f301b62b26, type: 3}
-  - {fileID: 21300000, guid: 7aae969890bdee440851b490f5847d38, type: 3}
-  - {fileID: 21300000, guid: 0c1fc5e0bf52d22478be4ccb15cc9d96, type: 3}
-  - {fileID: 21300000, guid: 4c287f347cb7e6f4fbd191586d697d46, type: 3}
 --- !u!114 &11405690
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -37378,53 +37361,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sortingOrder: 0
   applySpriterZOrder: 0
---- !u!114 &11419698
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 172242}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: cae7b10df6a5abd49b087f819b126fa0, type: 3}
-  - {fileID: 21300000, guid: 1e4f7580818610f48badb0faf3804e77, type: 3}
-  - {fileID: 21300000, guid: 5c376c5e0ba3676448261c9ff44df4b9, type: 3}
---- !u!114 &11424604
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 106246}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: 11ca0c064543337479149d194c47ab52, type: 3}
-  - {fileID: 21300000, guid: 218e160a66a72334db952757f928d349, type: 3}
---- !u!114 &11431558
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 126402}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: 4f8425fdbf4ba814fbf3483b6e04aafa, type: 3}
-  - {fileID: 21300000, guid: fc3bc7cf4c3d1b34cb959ffa5e64663d, type: 3}
---- !u!114 &11438222
+--- !u!114 &11437388
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -37438,7 +37375,23 @@ MonoBehaviour:
   DisplayedSprite: 0
   Sprites:
   - {fileID: 0}
---- !u!114 &11464462
+--- !u!114 &11449744
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 137724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 4c5ae2dde92df01418e17a6e3aa92c66, type: 3}
+  - {fileID: 21300000, guid: 593f84bc1fb32a54d8dc4ddc23be2a89, type: 3}
+  - {fileID: 21300000, guid: 2e9694071ceef8d4f947f3b3c54619e5, type: 3}
+--- !u!114 &11456804
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -37458,7 +37411,24 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 4c287f347cb7e6f4fbd191586d697d46, type: 3}
   - {fileID: 21300000, guid: 382b33f0f8bb37b4a8f0ede87db6628d, type: 3}
   - {fileID: 21300000, guid: 9c595276f09f7504d9d806f37861e4cd, type: 3}
---- !u!114 &11466164
+--- !u!114 &11459478
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 161040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 9770b4083c7203a45ae203f301b62b26, type: 3}
+  - {fileID: 21300000, guid: 7aae969890bdee440851b490f5847d38, type: 3}
+  - {fileID: 21300000, guid: 0c1fc5e0bf52d22478be4ccb15cc9d96, type: 3}
+  - {fileID: 21300000, guid: 4c287f347cb7e6f4fbd191586d697d46, type: 3}
+--- !u!114 &11481556
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -37477,12 +37447,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: f242b30ed87830746bd14e2f7fcd51de, type: 3}
   - {fileID: 21300000, guid: 525982bdfa15ebf428bc0748addcc4c5, type: 3}
   - {fileID: 21300000, guid: ca75529ac92dea848808d37d37454961, type: 3}
---- !u!114 &11469346
+--- !u!114 &11485590
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 137724}
+  m_GameObject: {fileID: 126402}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
@@ -37490,9 +37460,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DisplayedSprite: 0
   Sprites:
-  - {fileID: 21300000, guid: 4c5ae2dde92df01418e17a6e3aa92c66, type: 3}
-  - {fileID: 21300000, guid: 593f84bc1fb32a54d8dc4ddc23be2a89, type: 3}
-  - {fileID: 21300000, guid: 2e9694071ceef8d4f947f3b3c54619e5, type: 3}
+  - {fileID: 21300000, guid: 4f8425fdbf4ba814fbf3483b6e04aafa, type: 3}
+  - {fileID: 21300000, guid: fc3bc7cf4c3d1b34cb959ffa5e64663d, type: 3}
+--- !u!114 &11487396
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 106246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 11ca0c064543337479149d194c47ab52, type: 3}
+  - {fileID: 21300000, guid: 218e160a66a72334db952757f928d349, type: 3}
+--- !u!114 &11488824
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: cae7b10df6a5abd49b087f819b126fa0, type: 3}
+  - {fileID: 21300000, guid: 1e4f7580818610f48badb0faf3804e77, type: 3}
+  - {fileID: 21300000, guid: 5c376c5e0ba3676448261c9ff44df4b9, type: 3}
 --- !u!212 &21212192
 SpriteRenderer:
   m_ObjectHideFlags: 1

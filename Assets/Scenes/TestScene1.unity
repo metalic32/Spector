@@ -467,6 +467,18 @@ Prefab:
       propertyPath: resolutionOverride.Array.data[0].autoScaleMode
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 2000000, guid: 496ca43bf667ae44199ce862b9361e3c, type: 2}
+      propertyPath: m_BackGroundColor.r
+      value: .0735294223
+      objectReference: {fileID: 0}
+    - target: {fileID: 2000000, guid: 496ca43bf667ae44199ce862b9361e3c, type: 2}
+      propertyPath: m_BackGroundColor.g
+      value: .0735294223
+      objectReference: {fileID: 0}
+    - target: {fileID: 2000000, guid: 496ca43bf667ae44199ce862b9361e3c, type: 2}
+      propertyPath: m_BackGroundColor.b
+      value: .0735294223
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 496ca43bf667ae44199ce862b9361e3c, type: 2}
   m_IsPrefabParent: 0
